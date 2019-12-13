@@ -10,10 +10,10 @@ sections:
     is one to three sentences but can be changed as you prefer.
 - type: servicesblock
   template: servicesblock
-  title: My Roles
+  title: Things I Do
   section_id: services
   component: ServicesBlock
-  subtitle: An optional subtitle of the section
+  subtitle: These are the things I specialize in career wise.
   serviceslist:
   - title: Project Management
     content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec nisl ligula,
