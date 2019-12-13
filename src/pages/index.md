@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: heroblock
   template: heroblock
-  title: Hi, I'm Stackbit Exto Portfolio Theme.
+  title: Hi, I'm Craig Graham.
   section_id: hero
   component: HeroBlock
   content: This section can contain a subtitle or tagline. The recommended length
