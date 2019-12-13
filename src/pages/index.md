@@ -64,7 +64,7 @@ sections:
   subtitle: An optional subtitle of the section
 - type: postsblock
   template: postsblock
-  title: Latest from the Blog
+  title: My Thoughts On Stuff
   section_id: latest-posts
   component: PostsBlock
   subtitle: An optional subtitle of the section
