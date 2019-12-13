@@ -45,7 +45,7 @@ sections:
   title: Kudos
   section_id: testimonials
   component: TestimonialsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Nice words from people I've worked with...
   testimonialslist:
   - author: John Doe
     avatar: images/john_doe.jpg
