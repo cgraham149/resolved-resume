@@ -10,7 +10,7 @@ sections:
     is one to three sentences, but can be changed as you prefer.
 - type: servicesblock
   template: servicesblock
-  title: What We Do
+  title: Highlights
   section_id: services
   component: ServicesBlock
   subtitle: An optional subtitle of the section
