@@ -32,7 +32,7 @@ sections:
       efficitur urna viverra et.
 - type: portfolioblock
   template: portfolioblock
-  title: Recent Work
+  title: Projects I've Worked On
   section_id: latest-projects
   component: PortfolioBlock
   subtitle: An optional subtitle of the section
