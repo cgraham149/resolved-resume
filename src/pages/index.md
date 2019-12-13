@@ -7,7 +7,7 @@ sections:
   section_id: hero
   component: HeroBlock
   content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences, but can be changed as you prefer.
+    is one to three sentences but can be changed as you prefer.
 - type: servicesblock
   template: servicesblock
   title: Highlights
@@ -56,12 +56,6 @@ sections:
     content: Sed laoreet magna commodo libero euismod sodales. Nunc ac libero convallis,
       interdum ligula vel, pretium diam. Integer commodo sem at dui sollicitudin,
       vel posuere justo laoreet.
-- type: contactblock
-  template: contactblock
-  title: Contact Me
-  section_id: contact
-  component: ContactBlock
-  subtitle: An optional subtitle of the section
 - type: postsblock
   template: postsblock
   title: My Thoughts On Stuff
@@ -72,6 +66,12 @@ sections:
   actions:
   - label: View Blog
     url: blog/index.html
+- type: contactblock
+  template: contactblock
+  title: Contact Me
+  section_id: contact
+  component: ContactBlock
+  subtitle: An optional subtitle of the section
 menus:
   main:
     title: Home
