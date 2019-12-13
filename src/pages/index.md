@@ -71,7 +71,7 @@ sections:
   title: Contact Me
   section_id: contact
   component: ContactBlock
-  subtitle: An optional subtitle of the section
+  subtitle: I'd love to talk with you about your project!
 menus:
   main:
     title: Home
