@@ -6,8 +6,14 @@ sections:
   title: Hi, I'm Craig Graham.
   section_id: hero
   component: HeroBlock
-  content: This section can contain a subtitle or tagline. The recommended length
-    is one to three sentences but can be changed as you prefer.
+  content: I am a solutions-focused Senior Project Manager, Digital Strategist, and
+    Thought Leader with more than 25 years of success across marketing, advertising,
+    healthcare, higher education, government, and nonprofit industries. Leveraging
+    extensive experience in digital media (web & mobile) for **\[new product testing\]**,
+    I am a valuable **\[advisor\]** for any organization seeking guidance on **\[product
+    development and growth\]**. My broad areas of expertise include digital media
+    design & strategy, user experience, digital marketing, social media marketing,
+    talent management, and business development.
 - type: servicesblock
   template: servicesblock
   title: Things I Do
