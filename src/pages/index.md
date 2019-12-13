@@ -16,7 +16,7 @@ sections:
     talent management, and business development.
 - type: servicesblock
   template: servicesblock
-  title: Things I Do
+  title: Specialties
   section_id: services
   component: ServicesBlock
   subtitle: These are the things I specialize in career wise.
