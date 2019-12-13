@@ -64,7 +64,7 @@ sections:
   subtitle: Occasionally, I write about things that interest me.
   num_posts_displayed: 2
   actions:
-  - label: View Blog
+  - label: View More
     url: blog/index.html
 - type: contactblock
   template: contactblock
