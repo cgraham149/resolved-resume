@@ -61,7 +61,7 @@ sections:
   title: My Thoughts On Stuff
   section_id: latest-posts
   component: PostsBlock
-  subtitle: An optional subtitle of the section
+  subtitle: Occasionally, I write about things that interest me.
   num_posts_displayed: 2
   actions:
   - label: View Blog
