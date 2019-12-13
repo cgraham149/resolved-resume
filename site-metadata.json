@@ -7,11 +7,11 @@
     "has_nav": true
   },
   "footer": {
-    "content": "&copy; Stackbit-Exto. All rights reserved.",
+    "content": "&copy; Craig Graham. All rights reserved.",
     "links": [
       {
-        "text": "Made with Stackbit",
-        "url": "https://www.stackbit.com",
+        "text": "Made with JAMstack",
+        "url": "",
         "new_window": true
       }
     ],
