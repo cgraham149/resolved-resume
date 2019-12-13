@@ -58,7 +58,7 @@ sections:
       vel posuere justo laoreet.
 - type: contactblock
   template: contactblock
-  title: Contact Us
+  title: Contact Me
   section_id: contact
   component: ContactBlock
   subtitle: An optional subtitle of the section
